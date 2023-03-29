@@ -1,7 +1,7 @@
 module.exports = {
     // ...
     env: {
-        token: "", // your bot token
+        token: "MTA5MDYwNjY0MDkzMzM4ODM3OQ.GOCCnb.Z2Lcug3yFgxQZQQstK1FPuOKI4qisDXNpdfJ2o", // your bot token
         channel: "", // channel id from the channel the embed should get send to
         message: "", // message id from the message the system has send into the channel above
     },
